@@ -1,0 +1,5 @@
+a=input("radius of circle = ")
+a=float(a)
+b=((a*a)*3.164)
+b=float(b)
+print("area of circle =",b)
